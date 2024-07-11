@@ -1,4 +1,4 @@
-# trainee-quest
+# TCC - Trainee Quest
 Repositório com o objetivo de armazenar todos os arquivos que foram utilizados no desenvolvimento do TCC.
 
 A integração de novos funcionários em uma empresa é uma etapa fundamental para o desenvolvimento e sucesso de uma organização, exigindo eficiência e comprometimento. O interesse na gamificação para esse proposito reflete a busca por métodos inovadores de tornar o processo mais dinâmico e produtivo. A gamificação, ao incorporar elementos de jogos, surge como uma ferramenta capaz de aprimorar o aprendizado, como também de incentivar a colaboração entre a equipe e cultivar uma cultura de aprendizado contínua. O objetivo geral do projeto é facilitar a imersão na cultura organizacional, promovendo a visão da empresa assim como o conhecimento sobre seus serviços.
